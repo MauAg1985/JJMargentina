@@ -1,21 +1,37 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "MauAg1985",
+    "is_private": false,
+    "title": "Juicio a las Juntas Militares 1985",
+    "description": "Los Juicios a las Juntas Militares en Argentina, llevados a cabo en 1985, fueron el primer proceso judicial civil en el mundo en juzgar a una dictadura por crímenes de lesa humanidad. Bajo el gobierno de facto instaurado tras el golpe de Estado de 1976, las Fuerzas Armadas ejecutaron un plan sistemático de represión, que incluyó secuestros, torturas y desapariciones forzadas de miles de personas. La llegada de la democracia en 1983, bajo la presidencia de Raúl Alfonsín, abrió paso a la creación de la Comisión Nacional sobre la Desaparición de Personas (CONADEP) y a la redacción del informe Nunca Más, que documentó estos crímenes y sentó las bases para el juicio.\n\nEl proceso comenzó en abril de 1985 y finalizó en diciembre del mismo año, revelando en audiencias públicas el accionar represivo y las violaciones a los derechos humanos cometidas por el régimen militar. Diversos líderes de las primeras Juntas, como el general Jorge Rafael Videla y el almirante Emilio Massera, fueron condenados a cadena perpetua, mientras que otros altos mandos recibieron penas menores. Este juicio sentó un precedente en la justicia internacional al juzgar a quienes implementaron un régimen de terror estatal.\n\nAunque las leyes de Punto Final y Obediencia Debida frenaron la continuidad de los juicios en la década de los 80, en 2005 se derogaron, permitiendo la reapertura de los procesos y ampliando la búsqueda de justicia. Los Juicios a las Juntas son un hito en la historia de los derechos humanos en Argentina y el mundo, representando el compromiso con la memoria, la verdad y la justicia en el país, y sentando un ejemplo de resistencia frente a la impunidad de los crímenes de Estado.",
+    "language": "es",
+    "slug": "JJMargentina",
+    "creator": "MauAg1985",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "List of unique tags",
+          "category": "_uncategorized_"
+        }
+      ]
+    },
+    "created_at": "2024-11-14T18:01:50.010Z",
+    "updated_at": "2024-11-14T18:01:50.010Z"
   }
 }
