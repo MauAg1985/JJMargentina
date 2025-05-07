@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "MauAg1985",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143436034?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "MauAg1985",
     "is_private": false,
@@ -32,6 +38,7 @@
       ]
     },
     "created_at": "2024-11-14T18:01:50.010Z",
-    "updated_at": "2024-11-14T18:01:50.010Z"
+    "updated_at": "2024-11-14T18:01:50.010Z",
+    "generate_pages_site": true
   }
 }
